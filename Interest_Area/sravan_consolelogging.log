@@ -1,0 +1,32 @@
+2020-02-27 11:02:47 INFO  SimpleInterest:24 -27.0
+2020-02-27 11:02:47 ERROR SimpleInterest:25 -There will be corrrection
+2020-02-27 11:02:47 WARN  SimpleInterest:26 -there is something wrong in code
+2020-02-27 11:02:47 FATAL SimpleInterest:27 -there is any case of abort
+2020-02-27 11:03:06 INFO  SimpleInterest:24 -27.0
+2020-02-27 11:03:06 ERROR SimpleInterest:25 -There will be corrrection
+2020-02-27 11:03:06 WARN  SimpleInterest:26 -there is something wrong in code
+2020-02-27 11:03:06 FATAL SimpleInterest:27 -there is any case of abort
+2020-02-27 11:07:38 INFO  CompoundInterest:23 -24.0
+2020-02-27 11:07:38 ERROR CompoundInterest:24 -There will be corrrection
+2020-02-27 11:07:38 WARN  CompoundInterest:25 -there is something wrong in code
+2020-02-27 11:07:38 FATAL CompoundInterest:26 -there is any case of abort
+2020-02-27 11:07:38 INFO  House_Cost:35 -2178000.0
+2020-02-27 11:07:38 ERROR House_Cost:36 -There will be corrrection
+2020-02-27 11:07:38 WARN  House_Cost:37 -there is something wrong in code
+2020-02-27 11:07:38 FATAL House_Cost:38 -there is any case of abort
+2020-02-27 11:07:38 INFO  SimpleInterest:24 -27.0
+2020-02-27 11:07:38 ERROR SimpleInterest:25 -There will be corrrection
+2020-02-27 11:07:38 WARN  SimpleInterest:26 -there is something wrong in code
+2020-02-27 11:07:38 FATAL SimpleInterest:27 -there is any case of abort
+2020-02-27 11:08:01 INFO  CompoundInterest:23 -24.0
+2020-02-27 11:08:01 ERROR CompoundInterest:24 -There will be corrrection
+2020-02-27 11:08:01 WARN  CompoundInterest:25 -there is something wrong in code
+2020-02-27 11:08:01 FATAL CompoundInterest:26 -there is any case of abort
+2020-02-27 11:08:01 INFO  House_Cost:35 -2178000.0
+2020-02-27 11:08:01 ERROR House_Cost:36 -There will be corrrection
+2020-02-27 11:08:01 WARN  House_Cost:37 -there is something wrong in code
+2020-02-27 11:08:01 FATAL House_Cost:38 -there is any case of abort
+2020-02-27 11:08:01 INFO  SimpleInterest:24 -27.0
+2020-02-27 11:08:01 ERROR SimpleInterest:25 -There will be corrrection
+2020-02-27 11:08:01 WARN  SimpleInterest:26 -there is something wrong in code
+2020-02-27 11:08:01 FATAL SimpleInterest:27 -there is any case of abort
